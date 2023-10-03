@@ -12,7 +12,7 @@ env/
 
 # Specific files #
 ##################
-irls/settings.py
+irls/irls/settings.py
 
 # OS generated files #
 ######################
